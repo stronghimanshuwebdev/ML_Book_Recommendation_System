@@ -6,7 +6,7 @@ A Machine Learning project that recommends books based on user preferences.
 
 Follow these steps to run the project locally.
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/stronghimanshuwebdev/ML_Book_Recommendation_System.git
